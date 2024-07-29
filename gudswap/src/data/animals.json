@@ -1,0 +1,22 @@
+{
+  "animals": [
+    {
+      "id": "1",
+      "name": "Horse",
+      "unitValue": 0.25,
+      "imageUrl": "horse"
+    },
+    {
+      "id": "2",
+      "name": "Elephant",
+      "unitValue": 0.5,
+      "imageUrl": "elephant"
+    },
+    {
+      "id": "3",
+      "name": "Dragon",
+      "unitValue": 1.0,
+      "imageUrl": "dragon"
+    }
+  ]
+}

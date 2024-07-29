@@ -1,0 +1,26 @@
+.animal-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+.animal-card img {
+  width: 50px;
+  height: 50px;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.controls button {
+  margin: 0 5px;
+}
